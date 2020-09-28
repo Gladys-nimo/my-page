@@ -7,6 +7,16 @@ h1{
     font-style: italic;
     text-decoration: cornsilk;
     text-align: center;
+    color: black;
+}
+.projects {
+    text-align: center;
+    font-size: 40px;
+    color: cadetblue;
+}
+.my--projects {
+    text-align: center;
+    display: ;
 }
 .head {
     text-align: center;
@@ -22,6 +32,12 @@ img{
     padding: 5px;
     width: 250px;
 
+}
+.mine {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .important {
     text-align: justify;
@@ -42,4 +58,7 @@ h4{
 .column {
     
     text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: sans-serif;
 }
