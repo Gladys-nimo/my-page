@@ -1,39 +1,24 @@
+ body
+{
+    background-image: url(/images/download\ \(1\).jpeg);
 
-body{
-    background-color: coral
-    padding: 0px;
 }
-
-
 h1{
-    color: aqua;
-    text-align: center;
-    
-    img{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        border: 1px solid black;
-        border-radius: 10px;
-        width: 250px;
-        
-    }
-.projects {
-    text-align: center;
-
-
-}
-.my-projects {
-    text-align: center;
-}
-.about {
-    text-align: center;
-}
-#about-me {
-    text-align: center;
-    color: cornflowerblue;
     font-style: italic;
+    text-decoration: cornsilk;
+    text-align: center;
 }
-.education {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.head {
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    text-shadow: crimson;
+
+    
+}
+img{
+    display: block;
+    border-radius: 50px;
+    padding: 5px;
+    width: 250px;
 }
