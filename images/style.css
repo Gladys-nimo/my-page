@@ -1,0 +1,70 @@
+ body
+{
+    background-image: url(../images/download.jpeg)
+
+}
+h1{
+    font-style: italic;
+    text-decoration: cornsilk;
+    text-align: center;
+    color: black;
+}
+.projects {
+    text-align: center;
+    font-size: 40px;
+    color: cadetblue;
+}
+.my--projects {
+    text-align: center;
+    display: block;
+}
+.head {
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    text-shadow: crimson;
+
+    
+}
+img{
+    display: block;
+    border-radius: 50px;
+    padding: 5px;
+    width: 250px;
+
+}
+.mine {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.important {
+    text-align: justify;
+    display: block;
+    position: relative;
+    text-align: center;
+   
+}
+h4{
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+}
+#list {
+    color: crimson;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.column {
+    
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.hobby {
+    display: inline;
+    text-align: center;
+}
+
+
