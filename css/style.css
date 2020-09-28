@@ -2,3 +2,30 @@ h1{
     color: aqua;
     text-align: center;
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 250px;
+}
+.projects {
+    text-align: center;
+
+
+}
+.my-projects {
+    text-align: center;
+}
+.about {
+    text-align: center;
+}
+#about-me {
+    text-align: center;
+    color: cornflowerblue;
+    font-style: italic;
+}
+.education {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
