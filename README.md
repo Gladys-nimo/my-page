@@ -5,11 +5,11 @@
 ## Description
 This is my first webpage that I created in Moringa School. It contains more about me }
 ## Setup/Installation Requirements
-*
-*
-*
+*Visual Studio Code
+*Chrome
+*Git
 ## link to live site on Gothub Pages
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{https://gladys-nimo.github.io/my-page/ }
 ## Technologies Used
 Used HTML and CSS, to style my project
 
