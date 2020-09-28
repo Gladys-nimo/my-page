@@ -21,8 +21,20 @@ img{
     border-radius: 50px;
     padding: 5px;
     width: 250px;
+
 }
 .important {
     text-align: justify;
+    display: block;
+    position: relative;
+   
+}
+h4{
+    color: crimson;
+    font-size: 60px;
+    text-align: center;
+}
+.column {
     
+    text-align: center;
 }
