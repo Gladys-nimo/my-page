@@ -16,7 +16,7 @@ h1{
 }
 .my--projects {
     text-align: center;
-    display: ;
+    display: block;
 }
 .head {
     text-align: center;
@@ -68,8 +68,3 @@ h4{
 }
 
 
-
-@media screen and (min-width: 480px) {
-    background-color: black;
-    color: white;
-}
